@@ -1,0 +1,1001 @@
+Timestamp,FromBank,FromAccount,ToAccount,Amount,PaymentType,Suspicious
+2025-02-04 0:02,Bank7,Client30,Client26,2361.27,Wire Transfer,No
+2025-02-04 0:03,Bank4,Client39,Client27,1904.89,Credit Card,No
+2025-02-04 0:05,Bank6,Client37,Client39,2088.84,Crypto,No
+2025-02-04 0:05,Bank3,Client21,Client29,2451.77,Credit Card,No
+2025-02-04 0:07,Bank1,Client36,Client14,2461.28,Check,No
+2025-02-04 0:08,Bank1,Client5,Client35,1795.34,ACH,No
+2025-02-04 0:08,Bank6,Client10,Client26,2176.39,Credit Card,No
+2025-02-04 0:09,Bank4,Client13,Client5,2096.9,Crypto,No
+2025-02-04 0:10,Bank5,Client30,Client32,2174.03,Crypto,No
+2025-02-04 0:10,Bank8,Client10,Client37,2075.77,Check,No
+2025-02-04 0:12,Bank4,Client30,Client22,1970.22,Credit Card,No
+2025-02-04 0:12,Bank3,Client32,Client33,2043.11,Credit Card,No
+2025-02-04 0:13,Bank7,Client32,Client4,1621.62,Credit Card,No
+2025-02-04 0:16,Bank8,Client33,Client38,1456.22,Check,No
+2025-02-04 0:19,Bank4,Client21,Client4,2147.1,Crypto,No
+2025-02-04 0:20,Bank10,Client36,Client19,1208.59,Wire Transfer,No
+2025-02-04 0:21,Bank10,Client4,Client22,2174.24,Crypto,No
+2025-02-04 0:21,Bank10,Client4,Client37,2178.89,Check,No
+2025-02-04 0:22,Bank2,Client10,Client32,1758.8,Crypto,No
+2025-02-04 0:23,Bank9,Client28,Client15,2148.14,Wire Transfer,No
+2025-02-04 0:25,Bank1,Client4,Client3,1966.75,Wire Transfer,No
+2025-02-04 0:25,Bank3,Client13,Client38,2027.11,Crypto,No
+2025-02-04 0:27,Bank2,Client21,Client23,1256.32,Crypto,No
+2025-02-04 0:27,Bank8,Client39,Client7,2261.85,Check,No
+2025-02-04 0:29,Bank3,Client10,Client20,1295.81,Check,No
+2025-02-04 0:31,Bank8,Client13,Client28,1851.63,Check,No
+2025-02-04 0:31,Bank3,Client6,Client36,1453.33,ACH,No
+2025-02-04 0:31,Bank8,Client21,Client2,2232.56,Crypto,No
+2025-02-04 0:36,Bank5,Client4,Client17,1835.1,Crypto,No
+2025-02-04 0:36,Bank1,Client4,Client21,2320.03,Wire Transfer,No
+2025-02-04 0:38,Bank7,Client11,Client14,2127.92,Credit Card,No
+2025-02-04 0:39,Bank1,Client4,Client12,1622.9,Wire Transfer,No
+2025-02-04 0:40,Bank4,Client16,Client14,2448.81,ACH,No
+2025-02-04 0:44,Bank5,Client29,Client31,1725.13,Crypto,No
+2025-02-04 0:44,Bank8,Client10,Client31,1589.44,Wire Transfer,No
+2025-02-04 0:46,Bank6,Client14,Client32,1916.03,Credit Card,No
+2025-02-04 0:47,Bank2,Client6,Client4,2326.3,ACH,No
+2025-02-04 0:47,Bank1,Client15,Client34,2049.76,Credit Card,No
+2025-02-04 0:48,Bank10,Client10,Client28,2066.59,Check,No
+2025-02-04 0:49,Bank7,Client4,Client16,2008.72,Check,No
+2025-02-04 0:53,Bank1,Client13,Client37,2000.9,Check,No
+2025-02-04 0:55,Bank6,Client13,Client6,2103.88,Credit Card,No
+2025-02-04 0:55,Bank2,Client21,Client10,1947.79,Crypto,No
+2025-02-04 0:58,Bank9,Client5,Client22,2174.96,Credit Card,No
+2025-02-04 0:58,Bank5,Client11,Client36,2198.51,Wire Transfer,No
+2025-02-04 0:59,Bank2,Client23,Client21,1797.47,Credit Card,No
+2025-02-04 1:00,Bank6,Client4,Client34,2033.1,ACH,No
+2025-02-04 1:01,Bank4,Client10,Client7,2033.87,Wire Transfer,No
+2025-02-04 1:01,Bank6,Client31,Client8,2067.08,Check,No
+2025-02-04 1:01,Bank10,Client13,Client30,1485.37,Credit Card,No
+2025-02-04 1:02,Bank1,Client16,Client28,1869.89,Crypto,No
+2025-02-04 1:05,Bank4,Client31,Client14,2004.92,Credit Card,No
+2025-02-04 1:05,Bank5,Client19,Client38,1917.29,Check,No
+2025-02-04 1:05,Bank9,Client20,Client17,2280.48,Wire Transfer,No
+2025-02-04 1:08,Bank9,Client13,Client25,2407.19,Crypto,No
+2025-02-04 1:08,Bank7,Client21,Client34,1853.83,Wire Transfer,No
+2025-02-04 1:09,Bank5,Client4,Client39,2005.59,Crypto,No
+2025-02-04 1:13,Bank5,Client10,Client11,2416.56,Check,No
+2025-02-04 1:13,Bank5,Client9,Client26,1861.91,Check,Yes
+2025-02-04 1:13,Bank10,Client22,Client40,2814.59,Crypto,No
+2025-02-04 1:14,Bank1,Client27,Client12,2070.81,Check,No
+2025-02-04 1:15,Bank8,Client37,Client29,2181.98,Check,No
+2025-02-04 1:15,Bank10,Client13,Client22,2023.27,Crypto,No
+2025-02-04 1:18,Bank4,Client21,Client24,2543.83,Crypto,No
+2025-02-04 1:22,Bank5,Client34,Client5,2062.55,Crypto,No
+2025-02-04 1:23,Bank4,Client5,Client31,2127.17,Wire Transfer,No
+2025-02-04 1:33,Bank6,Client10,Client22,2312.41,ACH,No
+2025-02-04 1:36,Bank7,Client21,Client12,2165.38,Credit Card,No
+2025-02-04 1:36,Bank3,Client28,Client37,1742.59,Check,No
+2025-02-04 1:38,Bank3,Client23,Client10,2153.34,Crypto,No
+2025-02-04 1:38,Bank1,Client18,Client9,1797.3,Wire Transfer,No
+2025-02-04 1:39,Bank1,Client3,Client12,1748.42,Credit Card,Yes
+2025-02-04 1:40,Bank7,Client21,Client23,2052.45,Wire Transfer,No
+2025-02-04 1:40,Bank9,Client25,Client34,1920.28,Check,No
+2025-02-04 1:41,Bank9,Client13,Client31,2358.04,ACH,No
+2025-02-04 1:42,Bank10,Client38,Client15,1865.69,ACH,No
+2025-02-04 1:45,Bank9,Client31,Client28,2135.76,Crypto,No
+2025-02-04 1:45,Bank8,Client10,Client20,1888.82,Check,No
+2025-02-04 1:46,Bank5,Client21,Client5,2237.14,Check,No
+2025-02-04 1:50,Bank5,Client4,Client33,1911.1,Credit Card,No
+2025-02-04 1:51,Bank6,Client13,Client33,1879.87,Check,No
+2025-02-04 1:53,Bank5,Client21,Client2,1613.06,Wire Transfer,No
+2025-02-04 1:54,Bank1,Client19,Client12,2317.89,Crypto,No
+2025-02-04 1:54,Bank4,Client17,Client1,1988.6,Crypto,No
+2025-02-04 1:57,Bank1,Client18,Client5,1517.11,Crypto,No
+2025-02-04 1:57,Bank2,Client21,Client20,2353.37,Credit Card,No
+2025-02-04 1:59,Bank3,Client10,Client5,2104.66,Credit Card,No
+2025-02-04 2:00,Bank3,Client12,Client9,1999.07,Crypto,Yes
+2025-02-04 2:00,Bank3,Client4,Client19,2149.44,Wire Transfer,No
+2025-02-04 2:01,Bank8,Client13,Client30,2322.98,Wire Transfer,No
+2025-02-04 2:01,Bank9,Client10,Client29,2047.6,Check,No
+2025-02-04 2:04,Bank3,Client16,Client2,1798.51,Crypto,No
+2025-02-04 2:04,Bank8,Client13,Client6,1713.28,Crypto,No
+2025-02-04 2:07,Bank10,Client4,Client32,1679.3,Credit Card,No
+2025-02-04 2:08,Bank1,Client4,Client19,1862.91,Check,No
+2025-02-04 2:09,Bank2,Client40,Client9,2174.81,Crypto,Yes
+2025-02-04 2:11,Bank1,Client15,Client21,2828.31,Wire Transfer,No
+2025-02-04 2:11,Bank3,Client4,Client34,2163.89,Crypto,No
+2025-02-04 2:13,Bank3,Client32,Client12,2051.01,Check,No
+2025-02-04 2:14,Bank10,Client4,Client25,1463.99,Wire Transfer,No
+2025-02-04 2:16,Bank6,Client10,Client32,1808.69,Credit Card,No
+2025-02-04 2:16,Bank3,Client16,Client9,1650.31,Crypto,Yes
+2025-02-04 2:16,Bank4,Client4,Client12,1911.18,Check,No
+2025-02-04 2:18,Bank3,Client26,Client39,1767.8,Wire Transfer,No
+2025-02-04 2:18,Bank7,Client9,Client8,1948.15,Wire Transfer,Yes
+2025-02-04 2:19,Bank4,Client34,Client23,2358.4,Check,No
+2025-02-04 2:20,Bank5,Client4,Client12,1684,Check,No
+2025-02-04 2:22,Bank8,Client13,Client18,2061.2,Check,No
+2025-02-04 2:23,Bank9,Client4,Client3,1710.77,Check,Yes
+2025-02-04 2:23,Bank9,Client13,Client21,1862.61,Check,No
+2025-02-04 2:24,Bank3,Client13,Client14,1947.11,Crypto,No
+2025-02-04 2:28,Bank4,Client27,Client23,2606.29,ACH,No
+2025-02-04 2:30,Bank5,Client27,Client14,2188.69,Credit Card,No
+2025-02-04 2:31,Bank9,Client4,Client29,1939.47,ACH,No
+2025-02-04 2:31,Bank5,Client16,Client18,1403.95,Wire Transfer,No
+2025-02-04 2:34,Bank1,Client3,Client9,2180.24,Crypto,Yes
+2025-02-04 2:37,Bank10,Client4,Client28,1738.82,Crypto,No
+2025-02-04 2:39,Bank5,Client4,Client8,2140.28,ACH,No
+2025-02-04 2:39,Bank9,Client22,Client11,1791.94,ACH,No
+2025-02-04 2:41,Bank4,Client10,Client17,1893.22,ACH,No
+2025-02-04 2:43,Bank7,Client10,Client8,2474.33,Wire Transfer,No
+2025-02-04 2:49,Bank3,Client4,Client8,2581.71,Crypto,No
+2025-02-04 2:54,Bank4,Client10,Client2,1796.41,ACH,No
+2025-02-04 2:54,Bank8,Client37,Client28,1681.09,Crypto,No
+2025-02-04 2:59,Bank2,Client14,Client10,1955.66,Credit Card,No
+2025-02-04 2:59,Bank3,Client10,Client31,1597.15,Credit Card,No
+2025-02-04 3:02,Bank1,Client13,Client26,2173.98,Check,No
+2025-02-04 3:03,Bank2,Client34,Client25,1876.71,ACH,No
+2025-02-04 3:05,Bank2,Client13,Client27,2532.88,ACH,No
+2025-02-04 3:05,Bank9,Client10,Client37,2089.59,Check,No
+2025-02-04 3:06,Bank1,Client4,Client29,1728.73,ACH,No
+2025-02-04 3:08,Bank9,Client17,Client3,1972.66,Crypto,No
+2025-02-04 3:08,Bank3,Client8,Client18,1966.94,Wire Transfer,No
+2025-02-04 3:10,Bank5,Client4,Client21,1820.53,Wire Transfer,No
+2025-02-04 3:10,Bank5,Client37,Client20,2349.66,Crypto,No
+2025-02-04 3:11,Bank7,Client39,Client23,2074.84,Wire Transfer,No
+2025-02-04 3:11,Bank1,Client10,Client13,1950.26,Check,No
+2025-02-04 3:12,Bank9,Client33,Client28,2222,Wire Transfer,No
+2025-02-04 3:12,Bank8,Client32,Client37,1931.45,Wire Transfer,No
+2025-02-04 3:12,Bank6,Client29,Client28,1756.6,Credit Card,No
+2025-02-04 3:12,Bank10,Client13,Client38,2655.2,Wire Transfer,No
+2025-02-04 3:15,Bank9,Client21,Client9,1837.45,Crypto,Yes
+2025-02-04 3:18,Bank10,Client4,Client6,1901.71,Wire Transfer,No
+2025-02-04 3:21,Bank2,Client10,Client26,2162.37,Check,No
+2025-02-04 3:24,Bank2,Client10,Client15,2075.6,Credit Card,No
+2025-02-04 3:24,Bank6,Client4,Client19,2512.83,Crypto,No
+2025-02-04 3:25,Bank3,Client13,Client16,2035.57,Crypto,No
+2025-02-04 3:28,Bank1,Client24,Client25,1690.19,Crypto,No
+2025-02-04 3:28,Bank8,Client19,Client34,2345.74,ACH,No
+2025-02-04 3:29,Bank10,Client4,Client15,2195.91,Wire Transfer,No
+2025-02-04 3:30,Bank10,Client21,Client1,1625.98,Credit Card,No
+2025-02-04 3:31,Bank10,Client39,Client21,1659.91,Credit Card,No
+2025-02-04 3:32,Bank4,Client4,Client33,2231.24,Crypto,No
+2025-02-04 3:32,Bank6,Client31,Client40,2001.87,Credit Card,No
+2025-02-04 3:34,Bank5,Client10,Client25,1744.11,Credit Card,No
+2025-02-04 3:35,Bank8,Client37,Client14,2422.47,Credit Card,No
+2025-02-04 3:38,Bank8,Client21,Client5,1922.04,Crypto,No
+2025-02-04 3:40,Bank8,Client36,Client8,1972.6,Wire Transfer,No
+2025-02-04 3:40,Bank9,Client23,Client7,1918.82,Wire Transfer,No
+2025-02-04 3:42,Bank6,Client21,Client30,1818.1,ACH,No
+2025-02-04 3:42,Bank3,Client21,Client40,1658.14,Check,No
+2025-02-04 3:42,Bank9,Client21,Client8,2060.53,Crypto,No
+2025-02-04 3:47,Bank1,Client10,Client8,1971.15,ACH,No
+2025-02-04 3:48,Bank3,Client21,Client15,1640.63,Crypto,No
+2025-02-04 3:49,Bank7,Client6,Client29,1993.6,Wire Transfer,No
+2025-02-04 3:53,Bank7,Client13,Client30,1595.29,Check,No
+2025-02-04 3:56,Bank10,Client28,Client4,2029.78,Crypto,No
+2025-02-04 3:56,Bank6,Client38,Client11,1761.76,Crypto,No
+2025-02-04 3:57,Bank1,Client10,Client12,2005.23,Check,No
+2025-02-04 3:57,Bank5,Client39,Client19,2260.28,Crypto,No
+2025-02-04 3:58,Bank9,Client13,Client32,2010.92,Credit Card,No
+2025-02-04 3:59,Bank7,Client27,Client29,2392.05,Wire Transfer,No
+2025-02-04 4:00,Bank10,Client14,Client35,1931.33,Wire Transfer,No
+2025-02-04 4:00,Bank5,Client4,Client16,1972.98,Credit Card,No
+2025-02-04 4:04,Bank3,Client13,Client9,2143.38,Crypto,No
+2025-02-04 4:04,Bank9,Client16,Client6,2143.26,Credit Card,No
+2025-02-04 4:06,Bank5,Client28,Client32,1908.08,Credit Card,No
+2025-02-04 4:09,Bank1,Client21,Client22,2077.05,Credit Card,No
+2025-02-04 4:09,Bank8,Client10,Client27,1783.72,Wire Transfer,No
+2025-02-04 4:13,Bank1,Client4,Client18,2120.3,ACH,No
+2025-02-04 4:13,Bank1,Client10,Client5,1871.38,Wire Transfer,No
+2025-02-04 4:13,Bank2,Client17,Client40,2367.42,Crypto,No
+2025-02-04 4:15,Bank8,Client17,Client6,1923.26,Check,No
+2025-02-04 4:16,Bank2,Client13,Client23,2683.03,Check,No
+2025-02-04 4:16,Bank2,Client21,Client39,2087.39,Wire Transfer,No
+2025-02-04 4:19,Bank4,Client4,Client14,1578.14,Check,No
+2025-02-04 4:20,Bank9,Client36,Client21,1825.7,Crypto,No
+2025-02-04 4:26,Bank4,Client21,Client28,1511.08,Credit Card,No
+2025-02-04 4:28,Bank6,Client4,Client26,2368.72,Credit Card,No
+2025-02-04 4:29,Bank7,Client25,Client29,2053.58,Crypto,No
+2025-02-04 4:31,Bank5,Client5,Client7,1957.56,Check,No
+2025-02-04 4:32,Bank6,Client21,Client9,1651.42,ACH,No
+2025-02-04 4:35,Bank5,Client4,Client23,2106.1,Crypto,No
+2025-02-04 4:37,Bank2,Client4,Client13,2220.06,Check,No
+2025-02-04 4:37,Bank1,Client26,Client27,1728.35,Credit Card,No
+2025-02-04 4:40,Bank2,Client21,Client37,1984.37,Crypto,No
+2025-02-04 4:41,Bank1,Client16,Client30,2449.97,Check,No
+2025-02-04 4:44,Bank10,Client21,Client3,1816.34,Crypto,Yes
+2025-02-04 4:51,Bank5,Client13,Client30,1313.61,Credit Card,No
+2025-02-04 4:52,Bank3,Client4,Client25,1849.51,Crypto,No
+2025-02-04 4:54,Bank2,Client10,Client37,2141.41,ACH,No
+2025-02-04 4:55,Bank1,Client11,Client21,3192.8,Crypto,No
+2025-02-04 4:57,Bank4,Client13,Client26,1517.01,Check,No
+2025-02-04 4:59,Bank3,Client10,Client34,1802.95,Wire Transfer,No
+2025-02-04 4:59,Bank5,Client4,Client5,2148.99,Crypto,No
+2025-02-04 5:00,Bank2,Client13,Client29,2452.54,Credit Card,No
+2025-02-04 5:00,Bank5,Client3,Client12,2897.86,Check,Yes
+2025-02-04 5:00,Bank8,Client13,Client40,2121.96,Credit Card,No
+2025-02-04 5:02,Bank4,Client13,Client8,2148.98,Crypto,No
+2025-02-04 5:02,Bank10,Client26,Client38,1608.45,ACH,No
+2025-02-04 5:04,Bank1,Client21,Client40,2099.97,ACH,No
+2025-02-04 5:08,Bank6,Client4,Client12,2028.3,Check,No
+2025-02-04 5:10,Bank3,Client13,Client38,2394.26,Check,No
+2025-02-04 5:11,Bank4,Client13,Client35,1400.25,Crypto,No
+2025-02-04 5:15,Bank10,Client17,Client34,2211.75,Credit Card,No
+2025-02-04 5:16,Bank10,Client9,Client12,2380.27,Check,Yes
+2025-02-04 5:17,Bank3,Client11,Client18,2122.09,ACH,No
+2025-02-04 5:19,Bank7,Client37,Client27,1992.14,ACH,No
+2025-02-04 5:22,Bank9,Client11,Client14,1976.42,Credit Card,No
+2025-02-04 5:29,Bank3,Client23,Client25,2197.51,ACH,No
+2025-02-04 5:30,Bank9,Client21,Client28,1843.08,Credit Card,No
+2025-02-04 5:31,Bank4,Client7,Client31,2039.76,Wire Transfer,No
+2025-02-04 5:32,Bank10,Client36,Client5,1997.73,Credit Card,No
+2025-02-04 5:32,Bank1,Client1,Client32,2186.2,Crypto,No
+2025-02-04 5:32,Bank9,Client6,Client26,2319.7,Credit Card,No
+2025-02-04 5:33,Bank2,Client10,Client35,2049.26,Credit Card,No
+2025-02-04 5:34,Bank3,Client21,Client30,2661.62,ACH,No
+2025-02-04 5:34,Bank8,Client22,Client24,1724.22,Check,No
+2025-02-04 5:34,Bank4,Client3,Client31,2361.23,Crypto,Yes
+2025-02-04 5:36,Bank3,Client19,Client18,2371.05,Check,No
+2025-02-04 5:40,Bank8,Client9,Client16,1917.47,Wire Transfer,No
+2025-02-04 5:41,Bank6,Client13,Client4,2421.61,ACH,No
+2025-02-04 5:46,Bank3,Client11,Client37,2093.3,ACH,No
+2025-02-04 5:47,Bank2,Client39,Client36,2095,Check,No
+2025-02-04 5:49,Bank4,Client10,Client36,1631.18,Wire Transfer,No
+2025-02-04 5:50,Bank4,Client10,Client1,2209.79,Crypto,No
+2025-02-04 5:51,Bank7,Client4,Client3,1891.21,Crypto,No
+2025-02-04 5:53,Bank1,Client14,Client32,1851.27,Wire Transfer,No
+2025-02-04 5:53,Bank2,Client39,Client1,1615.96,Crypto,No
+2025-02-04 5:54,Bank10,Client34,Client27,2115.44,Crypto,No
+2025-02-04 5:55,Bank4,Client28,Client14,1873.19,Credit Card,No
+2025-02-04 5:57,Bank9,Client35,Client19,1924.25,Wire Transfer,No
+2025-02-04 5:57,Bank8,Client26,Client13,1509.53,Crypto,No
+2025-02-04 5:58,Bank6,Client35,Client19,2149.28,Crypto,No
+2025-02-04 6:00,Bank6,Client9,Client16,1813.95,Wire Transfer,No
+2025-02-04 6:00,Bank2,Client17,Client7,1797.59,ACH,No
+2025-02-04 6:01,Bank6,Client21,Client11,1471.23,ACH,No
+2025-02-04 6:02,Bank9,Client19,Client7,2129.36,Crypto,No
+2025-02-04 6:02,Bank5,Client33,Client28,2062.53,Check,No
+2025-02-04 6:03,Bank3,Client35,Client31,1647.22,ACH,No
+2025-02-04 6:05,Bank2,Client10,Client3,2579.34,Credit Card,No
+2025-02-04 6:08,Bank5,Client4,Client16,2269.98,Check,No
+2025-02-04 6:11,Bank1,Client10,Client20,1122.94,Check,No
+2025-02-04 6:13,Bank4,Client7,Client9,1396.42,Crypto,No
+2025-02-04 6:13,Bank10,Client10,Client17,1851.05,Crypto,No
+2025-02-04 6:14,Bank1,Client13,Client11,1551.25,Check,No
+2025-02-04 6:17,Bank1,Client10,Client22,2239.7,Crypto,No
+2025-02-04 6:18,Bank7,Client22,Client5,2351.03,Check,No
+2025-02-04 6:18,Bank9,Client21,Client2,1570.89,Check,No
+2025-02-04 6:20,Bank9,Client20,Client21,1795.94,Credit Card,No
+2025-02-04 6:22,Bank2,Client29,Client32,1886.76,Wire Transfer,No
+2025-02-04 6:27,Bank7,Client1,Client31,2120.39,Check,No
+2025-02-04 6:28,Bank1,Client13,Client26,2046.72,Check,No
+2025-02-04 6:29,Bank1,Client4,Client5,2236.07,Crypto,No
+2025-02-04 6:29,Bank3,Client1,Client19,2067.61,Credit Card,No
+2025-02-04 6:30,Bank7,Client13,Client14,2245.98,ACH,No
+2025-02-04 6:33,Bank10,Client39,Client21,2010.94,Wire Transfer,No
+2025-02-04 6:33,Bank7,Client29,Client9,2245.55,Check,No
+2025-02-04 6:34,Bank10,Client4,Client3,1784.25,ACH,No
+2025-02-04 6:37,Bank9,Client27,Client29,1726.08,Check,No
+2025-02-04 6:38,Bank1,Client4,Client22,2553.78,ACH,No
+2025-02-04 6:39,Bank3,Client20,Client28,1887.31,Credit Card,No
+2025-02-04 6:41,Bank2,Client13,Client36,2090.93,ACH,No
+2025-02-04 6:41,Bank4,Client10,Client13,1950.18,Credit Card,No
+2025-02-04 6:41,Bank7,Client10,Client2,2006.29,Crypto,No
+2025-02-04 6:42,Bank10,Client30,Client14,2227.42,Check,No
+2025-02-04 6:42,Bank9,Client21,Client14,1670.74,Wire Transfer,No
+2025-02-04 6:44,Bank3,Client29,Client32,2224.79,Wire Transfer,No
+2025-02-04 6:48,Bank2,Client21,Client4,2067.52,Credit Card,No
+2025-02-04 6:50,Bank3,Client10,Client18,2010.92,Crypto,No
+2025-02-04 6:50,Bank8,Client13,Client3,2510.92,Credit Card,No
+2025-02-04 6:51,Bank4,Client10,Client9,2332.57,Check,No
+2025-02-04 6:51,Bank6,Client26,Client29,2264.19,ACH,No
+2025-02-04 6:52,Bank6,Client4,Client5,2385.43,ACH,No
+2025-02-04 6:53,Bank4,Client4,Client29,2084.1,ACH,No
+2025-02-04 6:53,Bank9,Client4,Client5,2192.78,Check,No
+2025-02-04 6:54,Bank5,Client10,Client37,1809.85,Check,No
+2025-02-04 6:54,Bank8,Client4,Client2,2218.5,Crypto,No
+2025-02-04 6:54,Bank4,Client31,Client23,2494.91,Credit Card,No
+2025-02-04 6:58,Bank3,Client25,Client28,2733.58,Check,No
+2025-02-04 7:01,Bank9,Client21,Client11,1956.71,ACH,No
+2025-02-04 7:03,Bank9,Client4,Client21,2138.17,Credit Card,No
+2025-02-04 7:05,Bank7,Client8,Client20,2018.15,Check,No
+2025-02-04 7:05,Bank5,Client21,Client20,2049.92,Crypto,No
+2025-02-04 7:10,Bank3,Client2,Client3,1495.09,Credit Card,No
+2025-02-04 7:10,Bank9,Client19,Client7,2321.7,Crypto,No
+2025-02-04 7:10,Bank3,Client38,Client12,1649.29,Credit Card,No
+2025-02-04 7:11,Bank3,Client37,Client36,2087.61,Crypto,No
+2025-02-04 7:11,Bank9,Client33,Client34,1818.71,Wire Transfer,No
+2025-02-04 7:11,Bank8,Client32,Client16,1948.93,Credit Card,No
+2025-02-04 7:12,Bank1,Client21,Client25,1788,Wire Transfer,No
+2025-02-04 7:13,Bank7,Client13,Client24,1269.68,ACH,No
+2025-02-04 7:14,Bank3,Client39,Client13,1547.8,Wire Transfer,No
+2025-02-04 7:15,Bank8,Client4,Client10,1590.19,Crypto,No
+2025-02-04 7:18,Bank1,Client35,Client23,2040.73,Wire Transfer,No
+2025-02-04 7:18,Bank2,Client17,Client19,1581.21,ACH,No
+2025-02-04 7:19,Bank4,Client4,Client25,2334.36,Wire Transfer,No
+2025-02-04 7:24,Bank4,Client13,Client5,2313.26,Wire Transfer,No
+2025-02-04 7:26,Bank8,Client20,Client6,1766.69,Check,No
+2025-02-04 7:27,Bank10,Client4,Client31,1764.74,Credit Card,No
+2025-02-04 7:28,Bank5,Client4,Client19,2418.41,Credit Card,No
+2025-02-04 7:29,Bank10,Client21,Client36,1984.66,ACH,No
+2025-02-04 7:30,Bank5,Client21,Client2,1857.63,Crypto,No
+2025-02-04 7:31,Bank3,Client21,Client40,1374.21,ACH,No
+2025-02-04 7:36,Bank3,Client31,Client2,2057.75,Credit Card,No
+2025-02-04 7:37,Bank9,Client4,Client18,2501.74,Wire Transfer,No
+2025-02-04 7:39,Bank7,Client4,Client18,1890.61,Wire Transfer,No
+2025-02-04 7:39,Bank2,Client4,Client7,2337.14,Credit Card,No
+2025-02-04 7:41,Bank8,Client7,Client19,1765.51,Wire Transfer,No
+2025-02-04 7:43,Bank2,Client25,Client37,2202.56,Credit Card,No
+2025-02-04 7:43,Bank7,Client10,Client12,1849.27,ACH,No
+2025-02-04 7:44,Bank1,Client21,Client35,1783.13,Wire Transfer,No
+2025-02-04 7:44,Bank8,Client21,Client30,1945.35,Check,No
+2025-02-04 7:45,Bank2,Client21,Client16,2540.26,Credit Card,No
+2025-02-04 7:45,Bank4,Client13,Client12,2020.37,Wire Transfer,No
+2025-02-04 7:51,Bank2,Client6,Client3,2301.18,Credit Card,No
+2025-02-04 7:51,Bank10,Client10,Client28,1545.04,Credit Card,No
+2025-02-04 7:53,Bank4,Client17,Client3,1836.16,Wire Transfer,No
+2025-02-04 7:53,Bank3,Client13,Client36,1732.93,Credit Card,No
+2025-02-04 7:56,Bank10,Client10,Client1,1107.86,Credit Card,No
+2025-02-04 7:57,Bank3,Client15,Client39,1940.67,Check,No
+2025-02-04 7:57,Bank10,Client34,Client31,2076.19,Crypto,No
+2025-02-04 7:59,Bank3,Client35,Client22,2292.62,Credit Card,No
+2025-02-04 8:00,Bank4,Client23,Client6,1518.03,Crypto,No
+2025-02-04 8:00,Bank9,Client4,Client17,918.95,Credit Card,No
+2025-02-04 8:01,Bank3,Client24,Client6,1549.76,Credit Card,No
+2025-02-04 8:02,Bank2,Client13,Client6,2561.15,Wire Transfer,No
+2025-02-04 8:02,Bank5,Client25,Client3,1848.14,Credit Card,No
+2025-02-04 8:05,Bank7,Client29,Client2,1833.39,Wire Transfer,No
+2025-02-04 8:08,Bank6,Client10,Client6,1671.32,ACH,No
+2025-02-04 8:09,Bank4,Client13,Client4,2431.17,Check,No
+2025-02-04 8:10,Bank9,Client10,Client3,1505.67,Crypto,No
+2025-02-04 8:10,Bank3,Client14,Client16,2341.91,Crypto,No
+2025-02-04 8:11,Bank7,Client2,Client19,1996.8,Crypto,No
+2025-02-04 8:13,Bank8,Client7,Client21,2530.69,Crypto,No
+2025-02-04 8:22,Bank1,Client27,Client9,2206.44,Crypto,No
+2025-02-04 8:23,Bank3,Client37,Client20,2206.31,Wire Transfer,No
+2025-02-04 8:23,Bank4,Client2,Client29,1564.73,Wire Transfer,No
+2025-02-04 8:24,Bank6,Client25,Client20,2098.35,Credit Card,No
+2025-02-04 8:25,Bank2,Client10,Client31,1879.26,Wire Transfer,No
+2025-02-04 8:25,Bank3,Client10,Client29,1538.36,Crypto,No
+2025-02-04 8:28,Bank5,Client4,Client2,2057.91,Check,No
+2025-02-04 8:31,Bank7,Client10,Client32,1925.92,Wire Transfer,No
+2025-02-04 8:31,Bank1,Client40,Client22,1315.14,ACH,No
+2025-02-04 8:32,Bank4,Client10,Client24,2041.41,ACH,No
+2025-02-04 8:32,Bank1,Client16,Client32,1697.96,Check,No
+2025-02-04 8:33,Bank9,Client21,Client27,2489.1,Credit Card,No
+2025-02-04 8:35,Bank2,Client13,Client8,1745.01,Crypto,No
+2025-02-04 8:35,Bank1,Client30,Client35,1940.95,Check,No
+2025-02-04 8:35,Bank2,Client13,Client35,2729.87,Credit Card,No
+2025-02-04 8:37,Bank9,Client17,Client28,2359.33,Check,No
+2025-02-04 8:37,Bank4,Client38,Client37,2035.38,Check,No
+2025-02-04 8:37,Bank9,Client21,Client1,2275.48,ACH,No
+2025-02-04 8:39,Bank5,Client4,Client38,1779.2,Credit Card,No
+2025-02-04 8:39,Bank5,Client28,Client38,1682.72,Crypto,No
+2025-02-04 8:40,Bank5,Client4,Client23,1727.51,Wire Transfer,No
+2025-02-04 8:40,Bank3,Client35,Client9,1568.8,Credit Card,No
+2025-02-04 8:44,Bank10,Client36,Client14,2307.72,Crypto,No
+2025-02-04 8:45,Bank7,Client21,Client39,2469.54,Credit Card,No
+2025-02-04 8:45,Bank9,Client13,Client2,2241.38,Crypto,No
+2025-02-04 8:46,Bank5,Client13,Client7,1575.56,ACH,No
+2025-02-04 8:47,Bank10,Client21,Client40,2111.45,Check,No
+2025-02-04 8:47,Bank6,Client37,Client40,1942.42,Credit Card,No
+2025-02-04 8:54,Bank10,Client4,Client30,2237.58,Wire Transfer,No
+2025-02-04 8:57,Bank8,Client38,Client10,1953.68,Crypto,No
+2025-02-04 8:57,Bank6,Client27,Client26,1942.38,ACH,No
+2025-02-04 8:58,Bank6,Client39,Client21,2011.74,Crypto,No
+2025-02-04 8:58,Bank2,Client15,Client7,1956,Wire Transfer,No
+2025-02-04 9:01,Bank2,Client25,Client21,2231.94,Wire Transfer,No
+2025-02-04 9:02,Bank1,Client10,Client34,1947.47,Wire Transfer,No
+2025-02-04 9:02,Bank1,Client21,Client23,2088.71,Check,No
+2025-02-04 9:05,Bank2,Client20,Client15,1614.7,ACH,No
+2025-02-04 9:05,Bank6,Client32,Client34,1749.62,ACH,No
+2025-02-04 9:05,Bank9,Client13,Client18,1733.07,Credit Card,No
+2025-02-04 9:06,Bank1,Client21,Client15,1801.81,Credit Card,No
+2025-02-04 9:07,Bank1,Client10,Client8,2019.88,ACH,No
+2025-02-04 9:07,Bank10,Client13,Client35,1435.84,Check,No
+2025-02-04 9:07,Bank9,Client12,Client33,1982.24,ACH,No
+2025-02-04 9:07,Bank9,Client33,Client32,2023.19,Credit Card,No
+2025-02-04 9:08,Bank6,Client5,Client34,1800.96,Check,No
+2025-02-04 9:08,Bank3,Client26,Client39,1614.04,Check,No
+2025-02-04 9:08,Bank9,Client21,Client35,2007.9,Credit Card,No
+2025-02-04 9:10,Bank1,Client10,Client13,2237.77,Crypto,No
+2025-02-04 9:11,Bank6,Client23,Client9,2477.29,ACH,No
+2025-02-04 9:12,Bank3,Client21,Client16,2140.32,Crypto,No
+2025-02-04 9:13,Bank3,Client21,Client26,2663.75,Check,No
+2025-02-04 9:13,Bank5,Client13,Client29,2247.64,ACH,No
+2025-02-04 9:15,Bank1,Client8,Client26,1949.39,ACH,No
+2025-02-04 9:16,Bank5,Client19,Client6,1740.06,Check,No
+2025-02-04 9:18,Bank2,Client21,Client13,2546.33,Check,No
+2025-02-04 9:19,Bank6,Client10,Client19,1940.03,ACH,No
+2025-02-04 9:20,Bank6,Client13,Client39,2211.05,Crypto,No
+2025-02-04 9:20,Bank10,Client32,Client2,2610.49,ACH,No
+2025-02-04 9:20,Bank5,Client4,Client38,1833.59,ACH,No
+2025-02-04 9:22,Bank2,Client18,Client39,2056.74,ACH,No
+2025-02-04 9:24,Bank3,Client21,Client26,1847.57,Check,No
+2025-02-04 9:24,Bank6,Client35,Client4,2035.41,Check,No
+2025-02-04 9:24,Bank2,Client4,Client27,2119.64,ACH,No
+2025-02-04 9:25,Bank8,Client25,Client30,1881.04,ACH,No
+2025-02-04 9:26,Bank10,Client21,Client33,2176.98,Crypto,No
+2025-02-04 9:29,Bank3,Client21,Client10,2248.21,ACH,No
+2025-02-04 9:30,Bank3,Client18,Client2,2167.72,Credit Card,No
+2025-02-04 9:32,Bank3,Client38,Client33,2027.56,Credit Card,No
+2025-02-04 9:32,Bank4,Client4,Client36,1725.18,Credit Card,No
+2025-02-04 9:33,Bank3,Client4,Client2,2088.71,Credit Card,No
+2025-02-04 9:41,Bank10,Client11,Client31,2309.1,Check,No
+2025-02-04 9:42,Bank6,Client21,Client38,1704.37,ACH,No
+2025-02-04 9:43,Bank2,Client35,Client19,2495.77,Wire Transfer,No
+2025-02-04 9:44,Bank1,Client30,Client29,1857.19,Check,No
+2025-02-04 9:44,Bank4,Client4,Client31,1835.17,Credit Card,No
+2025-02-04 9:48,Bank9,Client19,Client26,1659.13,Check,No
+2025-02-04 9:49,Bank5,Client27,Client4,2193.63,Crypto,No
+2025-02-04 9:50,Bank1,Client21,Client37,2433.04,Credit Card,No
+2025-02-04 9:53,Bank5,Client35,Client3,2222.54,ACH,No
+2025-02-04 9:55,Bank7,Client11,Client14,1749.53,Wire Transfer,No
+2025-02-04 9:55,Bank9,Client13,Client23,1999.29,ACH,No
+2025-02-04 9:55,Bank10,Client21,Client37,2196.67,Credit Card,No
+2025-02-04 9:56,Bank1,Client29,Client22,2054.82,Wire Transfer,No
+2025-02-04 9:58,Bank6,Client15,Client34,1830.21,Credit Card,No
+2025-02-04 10:01,Bank9,Client18,Client35,1790.85,ACH,No
+2025-02-04 10:01,Bank7,Client38,Client40,2172.49,ACH,No
+2025-02-04 10:02,Bank8,Client13,Client18,2010.79,Check,No
+2025-02-04 10:03,Bank4,Client1,Client4,2471.91,Wire Transfer,No
+2025-02-04 10:03,Bank8,Client36,Client28,2357.01,ACH,No
+2025-02-04 10:04,Bank7,Client20,Client29,2408.29,Credit Card,No
+2025-02-04 10:08,Bank2,Client12,Client32,2436.79,Credit Card,No
+2025-02-04 10:10,Bank8,Client10,Client18,1726.17,ACH,No
+2025-02-04 10:10,Bank6,Client31,Client11,1707.31,Credit Card,No
+2025-02-04 10:11,Bank1,Client10,Client18,1693.98,Check,No
+2025-02-04 10:16,Bank6,Client35,Client34,1781.56,Credit Card,No
+2025-02-04 10:16,Bank10,Client36,Client16,2257.48,Credit Card,No
+2025-02-04 10:17,Bank10,Client26,Client36,1818.38,Crypto,No
+2025-02-04 10:18,Bank3,Client11,Client36,1294.65,Credit Card,No
+2025-02-04 10:20,Bank9,Client35,Client30,1819.41,Wire Transfer,No
+2025-02-04 10:22,Bank10,Client19,Client6,2570.44,Wire Transfer,No
+2025-02-04 10:23,Bank7,Client39,Client12,1906.49,ACH,No
+2025-02-04 10:23,Bank8,Client23,Client10,2179.8,Credit Card,No
+2025-02-04 10:24,Bank8,Client13,Client36,2487.85,ACH,No
+2025-02-04 10:25,Bank6,Client14,Client13,1499.74,Crypto,No
+2025-02-04 10:26,Bank8,Client17,Client2,2101.96,Credit Card,No
+2025-02-04 10:26,Bank2,Client21,Client16,1911.64,Crypto,No
+2025-02-04 10:27,Bank1,Client13,Client14,1879.06,Credit Card,No
+2025-02-04 10:30,Bank2,Client10,Client14,2178.13,Check,No
+2025-02-04 10:30,Bank9,Client13,Client22,1956.49,Check,No
+2025-02-04 10:32,Bank9,Client10,Client39,1702.98,Credit Card,No
+2025-02-04 10:33,Bank4,Client26,Client38,2072.85,Wire Transfer,No
+2025-02-04 10:34,Bank10,Client13,Client7,1917.85,Check,No
+2025-02-04 10:34,Bank9,Client37,Client12,1224.37,Credit Card,No
+2025-02-04 10:35,Bank10,Client28,Client38,2588.43,Check,No
+2025-02-04 10:36,Bank10,Client13,Client29,2317.11,Wire Transfer,No
+2025-02-04 10:36,Bank1,Client10,Client27,2157.78,ACH,No
+2025-02-04 10:37,Bank4,Client4,Client20,1594.65,Crypto,No
+2025-02-04 10:38,Bank5,Client23,Client5,1823.26,ACH,No
+2025-02-04 10:41,Bank9,Client4,Client39,1284.07,ACH,No
+2025-02-04 10:42,Bank6,Client4,Client32,2146.62,Wire Transfer,No
+2025-02-04 10:42,Bank8,Client27,Client3,2044.32,Check,No
+2025-02-04 10:43,Bank7,Client4,Client35,2640.91,Wire Transfer,No
+2025-02-04 10:44,Bank4,Client1,Client8,1858.93,Check,No
+2025-02-04 10:45,Bank5,Client1,Client25,1482.3,Crypto,No
+2025-02-04 10:46,Bank10,Client38,Client8,2351.25,Check,No
+2025-02-04 10:46,Bank2,Client10,Client31,1801.09,ACH,No
+2025-02-04 10:47,Bank10,Client16,Client36,1805.03,Crypto,No
+2025-02-04 10:48,Bank2,Client17,Client8,1922.24,Wire Transfer,No
+2025-02-04 10:49,Bank9,Client37,Client20,1854.09,Wire Transfer,No
+2025-02-04 10:52,Bank4,Client33,Client25,2096.61,Crypto,No
+2025-02-04 10:56,Bank2,Client21,Client35,1965.49,Crypto,No
+2025-02-04 10:57,Bank9,Client10,Client3,1673.49,Check,No
+2025-02-04 10:58,Bank10,Client4,Client39,1656.55,Crypto,No
+2025-02-04 11:00,Bank10,Client21,Client26,2059.38,Wire Transfer,No
+2025-02-04 11:03,Bank2,Client13,Client7,2000.41,Credit Card,No
+2025-02-04 11:06,Bank10,Client23,Client6,1714.61,Credit Card,No
+2025-02-04 11:06,Bank9,Client19,Client32,1956.29,Credit Card,No
+2025-02-04 11:07,Bank7,Client1,Client26,1945.3,Crypto,No
+2025-02-04 11:07,Bank2,Client4,Client15,2478.62,Check,No
+2025-02-04 11:08,Bank2,Client36,Client1,1881.81,Crypto,No
+2025-02-04 11:08,Bank5,Client13,Client32,1923.05,Wire Transfer,No
+2025-02-04 11:09,Bank5,Client10,Client30,2061.28,Wire Transfer,No
+2025-02-04 11:12,Bank4,Client10,Client4,1345.8,Check,No
+2025-02-04 11:12,Bank5,Client27,Client10,2353.93,Check,No
+2025-02-04 11:13,Bank5,Client21,Client33,1998.38,Crypto,No
+2025-02-04 11:13,Bank2,Client21,Client37,1694.07,Credit Card,No
+2025-02-04 11:13,Bank9,Client5,Client32,1942.37,Wire Transfer,No
+2025-02-04 11:15,Bank9,Client31,Client36,2571.1,Wire Transfer,No
+2025-02-04 11:15,Bank9,Client34,Client7,1736.88,Crypto,No
+2025-02-04 11:16,Bank4,Client4,Client18,1845.31,Check,No
+2025-02-04 11:18,Bank7,Client20,Client14,1782.92,Wire Transfer,No
+2025-02-04 11:23,Bank5,Client7,Client34,2150.75,Crypto,No
+2025-02-04 11:23,Bank4,Client3,Client22,2156.59,Wire Transfer,No
+2025-02-04 11:24,Bank6,Client34,Client26,2237.32,Check,No
+2025-02-04 11:26,Bank1,Client10,Client7,2533.15,Credit Card,No
+2025-02-04 11:30,Bank9,Client21,Client36,1926.19,Check,No
+2025-02-04 11:32,Bank7,Client4,Client5,2045.96,Crypto,No
+2025-02-04 11:33,Bank3,Client4,Client2,2424.51,Credit Card,No
+2025-02-04 11:33,Bank5,Client10,Client14,2311.35,Credit Card,No
+2025-02-04 11:34,Bank5,Client22,Client12,2024.19,Check,No
+2025-02-04 11:36,Bank1,Client34,Client19,1656.22,Check,No
+2025-02-04 11:36,Bank9,Client18,Client31,1514.56,ACH,No
+2025-02-04 11:37,Bank7,Client13,Client9,2375.79,Wire Transfer,No
+2025-02-04 11:41,Bank2,Client4,Client32,1965.68,Wire Transfer,No
+2025-02-04 11:46,Bank5,Client37,Client27,1601.57,ACH,No
+2025-02-04 11:48,Bank6,Client35,Client5,2486.95,Credit Card,No
+2025-02-04 11:49,Bank10,Client4,Client22,1873.25,Wire Transfer,No
+2025-02-04 11:52,Bank3,Client13,Client25,1997.25,ACH,No
+2025-02-04 11:53,Bank9,Client12,Client26,1630.21,Crypto,No
+2025-02-04 11:54,Bank5,Client31,Client33,2312.7,Check,No
+2025-02-04 11:56,Bank9,Client36,Client27,1889.39,Check,No
+2025-02-04 11:58,Bank2,Client40,Client7,2280.51,Crypto,No
+2025-02-04 11:59,Bank6,Client4,Client1,2069.73,Credit Card,No
+2025-02-04 12:01,Bank8,Client10,Client7,1880.45,Check,No
+2025-02-04 12:05,Bank4,Client2,Client23,2124.12,Credit Card,No
+2025-02-04 12:06,Bank10,Client18,Client26,1698.66,ACH,No
+2025-02-04 12:06,Bank5,Client12,Client22,2195.35,Credit Card,No
+2025-02-04 12:06,Bank2,Client40,Client29,1837.33,Check,No
+2025-02-04 12:10,Bank10,Client12,Client35,1732.99,Credit Card,No
+2025-02-04 12:10,Bank5,Client30,Client1,2238.17,Crypto,No
+2025-02-04 12:12,Bank10,Client13,Client36,2485.71,Check,No
+2025-02-04 12:15,Bank6,Client21,Client7,2367.92,ACH,No
+2025-02-04 12:16,Bank3,Client21,Client8,1523.25,Check,No
+2025-02-04 12:18,Bank6,Client21,Client14,1640.59,Wire Transfer,No
+2025-02-04 12:18,Bank1,Client13,Client16,1945.26,Check,No
+2025-02-04 12:19,Bank5,Client12,Client31,2006.22,ACH,No
+2025-02-04 12:21,Bank4,Client30,Client8,2287.93,Wire Transfer,No
+2025-02-04 12:33,Bank4,Client4,Client5,2285.83,Wire Transfer,No
+2025-02-04 12:33,Bank1,Client7,Client26,2054.76,Credit Card,No
+2025-02-04 12:34,Bank4,Client10,Client34,1882.67,Wire Transfer,No
+2025-02-04 12:36,Bank4,Client38,Client18,2292.18,Credit Card,No
+2025-02-04 12:37,Bank6,Client18,Client35,2218.58,Credit Card,No
+2025-02-04 12:39,Bank2,Client28,Client1,1568.66,Credit Card,No
+2025-02-04 12:40,Bank3,Client26,Client21,2075.19,Check,No
+2025-02-04 12:41,Bank3,Client10,Client14,1914.55,Check,No
+2025-02-04 12:41,Bank4,Client13,Client32,2269.38,Credit Card,No
+2025-02-04 12:43,Bank8,Client10,Client14,1896.11,ACH,No
+2025-02-04 12:43,Bank10,Client21,Client30,1601.55,Credit Card,No
+2025-02-04 12:45,Bank10,Client13,Client12,1928.69,Wire Transfer,No
+2025-02-04 12:47,Bank9,Client17,Client40,2086.57,Wire Transfer,No
+2025-02-04 12:49,Bank6,Client24,Client17,2068.26,Credit Card,No
+2025-02-04 12:52,Bank8,Client4,Client6,1902.51,Check,No
+2025-02-04 12:55,Bank9,Client15,Client8,2055.26,Wire Transfer,No
+2025-02-04 12:56,Bank3,Client18,Client23,2078.33,ACH,No
+2025-02-04 12:58,Bank6,Client30,Client33,1928.65,Crypto,No
+2025-02-04 13:00,Bank8,Client25,Client11,1734.02,Check,No
+2025-02-04 13:03,Bank8,Client8,Client7,1726.04,Crypto,No
+2025-02-04 13:05,Bank9,Client4,Client29,2388.54,ACH,No
+2025-02-04 13:07,Bank6,Client39,Client5,2135.55,Crypto,No
+2025-02-04 13:07,Bank8,Client13,Client5,2266.13,Check,No
+2025-02-04 13:08,Bank9,Client13,Client11,2053.3,Crypto,No
+2025-02-04 13:08,Bank4,Client4,Client16,1906.81,Check,No
+2025-02-04 13:09,Bank5,Client30,Client17,1870.87,Credit Card,No
+2025-02-04 13:10,Bank10,Client21,Client38,2083.8,ACH,No
+2025-02-04 13:10,Bank8,Client4,Client26,2140.72,Check,No
+2025-02-04 13:11,Bank2,Client13,Client35,2602.83,Check,No
+2025-02-04 13:16,Bank2,Client9,Client26,2110.91,Check,No
+2025-02-04 13:18,Bank8,Client20,Client22,1947.68,Check,No
+2025-02-04 13:21,Bank7,Client10,Client37,1586.57,ACH,No
+2025-02-04 13:27,Bank4,Client40,Client27,1834.07,Credit Card,No
+2025-02-04 13:30,Bank2,Client10,Client34,2083.06,Check,No
+2025-02-04 13:31,Bank6,Client13,Client17,1695.53,Wire Transfer,No
+2025-02-04 13:31,Bank3,Client34,Client7,2065.57,Crypto,No
+2025-02-04 13:33,Bank2,Client4,Client24,1860.84,ACH,No
+2025-02-04 13:37,Bank7,Client25,Client15,2184.6,Credit Card,No
+2025-02-04 13:38,Bank1,Client26,Client31,2469.89,Crypto,No
+2025-02-04 13:39,Bank8,Client23,Client31,2158.78,Check,No
+2025-02-04 13:41,Bank7,Client13,Client33,2015.72,Crypto,No
+2025-02-04 13:42,Bank3,Client17,Client28,1521.19,Credit Card,No
+2025-02-04 13:44,Bank7,Client13,Client23,1842.09,Crypto,No
+2025-02-04 13:46,Bank6,Client6,Client14,2215.02,Wire Transfer,No
+2025-02-04 13:47,Bank2,Client14,Client8,1913.37,ACH,No
+2025-02-04 13:48,Bank4,Client21,Client7,2143.34,Wire Transfer,No
+2025-02-04 13:49,Bank9,Client4,Client22,1927.81,Crypto,No
+2025-02-04 13:50,Bank5,Client21,Client4,1849.09,Wire Transfer,No
+2025-02-04 13:52,Bank9,Client13,Client29,2188.03,Check,No
+2025-02-04 13:55,Bank7,Client21,Client27,1972.45,ACH,No
+2025-02-04 13:56,Bank5,Client21,Client12,2434.55,Credit Card,No
+2025-02-04 13:56,Bank5,Client21,Client7,1932.11,Wire Transfer,No
+2025-02-04 13:56,Bank7,Client18,Client39,2046.59,ACH,No
+2025-02-04 13:59,Bank9,Client13,Client36,1947.42,Check,No
+2025-02-04 13:59,Bank7,Client10,Client6,1887.44,Crypto,No
+2025-02-04 14:00,Bank4,Client21,Client38,1694.87,Credit Card,No
+2025-02-04 14:00,Bank6,Client13,Client8,2232.34,Check,No
+2025-02-04 14:01,Bank5,Client21,Client19,1958.22,Crypto,No
+2025-02-04 14:05,Bank3,Client10,Client28,1630.96,Credit Card,No
+2025-02-04 14:12,Bank7,Client2,Client27,1845.88,Wire Transfer,No
+2025-02-04 14:13,Bank8,Client30,Client26,1748.72,ACH,No
+2025-02-04 14:15,Bank8,Client1,Client13,2297.37,ACH,No
+2025-02-04 14:15,Bank4,Client21,Client40,1936.17,Credit Card,No
+2025-02-04 14:15,Bank4,Client12,Client24,2276.98,Wire Transfer,No
+2025-02-04 14:17,Bank9,Client21,Client17,1956.02,Check,No
+2025-02-04 14:17,Bank9,Client10,Client2,1705.73,Credit Card,No
+2025-02-04 14:21,Bank3,Client10,Client8,2210.83,Credit Card,No
+2025-02-04 14:21,Bank1,Client10,Client4,1640.05,Crypto,No
+2025-02-04 14:23,Bank3,Client4,Client27,1867.2,Wire Transfer,No
+2025-02-04 14:24,Bank2,Client18,Client35,1947.63,Check,No
+2025-02-04 14:25,Bank10,Client4,Client31,2361.08,Credit Card,No
+2025-02-04 14:25,Bank3,Client13,Client34,2406.43,Crypto,No
+2025-02-04 14:25,Bank6,Client4,Client32,2595.07,Check,No
+2025-02-04 14:25,Bank6,Client13,Client31,1998.95,Check,No
+2025-02-04 14:26,Bank1,Client20,Client3,2136.9,Crypto,No
+2025-02-04 14:28,Bank8,Client27,Client28,1887,Check,No
+2025-02-04 14:30,Bank3,Client8,Client22,2182.59,Wire Transfer,No
+2025-02-04 14:33,Bank5,Client13,Client39,2200.9,Crypto,No
+2025-02-04 14:34,Bank7,Client10,Client25,1618.03,ACH,No
+2025-02-04 14:35,Bank4,Client21,Client4,2178.34,Wire Transfer,No
+2025-02-04 14:39,Bank6,Client24,Client18,2577.58,ACH,No
+2025-02-04 14:40,Bank8,Client13,Client11,2120.79,Crypto,No
+2025-02-04 14:41,Bank6,Client21,Client5,2402.53,Wire Transfer,No
+2025-02-04 14:42,Bank9,Client23,Client40,2270.39,Credit Card,No
+2025-02-04 14:44,Bank7,Client4,Client38,1670.2,Credit Card,No
+2025-02-04 14:44,Bank7,Client22,Client19,1890.51,Wire Transfer,No
+2025-02-04 14:44,Bank8,Client39,Client34,1485.72,Check,No
+2025-02-04 14:47,Bank6,Client38,Client18,1306.2,Check,No
+2025-02-04 14:47,Bank2,Client4,Client2,2143.64,Crypto,No
+2025-02-04 14:48,Bank3,Client23,Client28,1866.41,ACH,No
+2025-02-04 14:48,Bank2,Client30,Client24,1575.78,Crypto,No
+2025-02-04 14:51,Bank2,Client31,Client13,1528.83,Wire Transfer,No
+2025-02-04 14:52,Bank10,Client15,Client24,1412.2,Check,No
+2025-02-04 14:52,Bank8,Client36,Client26,2350.15,Check,No
+2025-02-04 14:52,Bank3,Client36,Client25,2290.5,Wire Transfer,No
+2025-02-04 14:53,Bank3,Client13,Client27,1799.17,Credit Card,No
+2025-02-04 14:53,Bank7,Client4,Client27,1947.92,Check,No
+2025-02-04 14:53,Bank5,Client7,Client16,1438.29,ACH,No
+2025-02-04 14:56,Bank6,Client13,Client14,1598.95,Crypto,No
+2025-02-04 14:57,Bank6,Client21,Client31,2237.7,ACH,No
+2025-02-04 14:58,Bank1,Client13,Client7,1422.59,ACH,No
+2025-02-04 14:58,Bank5,Client4,Client28,2011.42,Check,No
+2025-02-04 14:59,Bank4,Client21,Client30,2490.59,Wire Transfer,No
+2025-02-04 15:00,Bank2,Client12,Client8,1897.48,Crypto,No
+2025-02-04 15:01,Bank9,Client4,Client18,1768.24,ACH,No
+2025-02-04 15:01,Bank3,Client21,Client34,2249.23,Crypto,No
+2025-02-04 15:03,Bank7,Client21,Client40,2260.37,Crypto,No
+2025-02-04 15:04,Bank4,Client23,Client34,1903.34,Wire Transfer,No
+2025-02-04 15:06,Bank1,Client4,Client38,2194.71,Crypto,No
+2025-02-04 15:07,Bank7,Client14,Client13,1955.59,ACH,No
+2025-02-04 15:08,Bank3,Client39,Client5,2209.36,Crypto,No
+2025-02-04 15:09,Bank6,Client4,Client40,1802.67,Check,No
+2025-02-04 15:09,Bank10,Client13,Client21,1858.98,ACH,No
+2025-02-04 15:09,Bank6,Client8,Client7,2368.51,Wire Transfer,No
+2025-02-04 15:17,Bank6,Client36,Client14,1756.52,Credit Card,No
+2025-02-04 15:18,Bank2,Client21,Client22,1913.31,Crypto,No
+2025-02-04 15:21,Bank5,Client3,Client12,1563.28,Check,Yes
+2025-02-04 15:22,Bank4,Client3,Client10,1788.68,Credit Card,No
+2025-02-04 15:28,Bank4,Client29,Client39,1879.73,ACH,No
+2025-02-04 15:28,Bank8,Client21,Client16,2380.74,Wire Transfer,No
+2025-02-04 15:33,Bank6,Client27,Client39,2680.71,Wire Transfer,No
+2025-02-04 15:36,Bank10,Client13,Client40,1505.05,Credit Card,No
+2025-02-04 15:37,Bank4,Client10,Client24,1425.91,Check,No
+2025-02-04 15:37,Bank7,Client40,Client19,1864.48,Check,No
+2025-02-04 15:39,Bank7,Client16,Client3,1884.18,ACH,No
+2025-02-04 15:40,Bank5,Client21,Client29,1530.59,Wire Transfer,No
+2025-02-04 15:40,Bank9,Client10,Client31,2056.21,Credit Card,No
+2025-02-04 15:40,Bank5,Client10,Client27,1772.79,Check,No
+2025-02-04 15:42,Bank9,Client13,Client28,2440.76,Credit Card,No
+2025-02-04 15:45,Bank10,Client4,Client9,2191.68,Crypto,No
+2025-02-04 15:47,Bank4,Client20,Client8,1717.63,Crypto,No
+2025-02-04 15:48,Bank6,Client29,Client31,1448.45,Crypto,No
+2025-02-04 15:48,Bank4,Client19,Client16,1771.25,Credit Card,No
+2025-02-04 15:48,Bank7,Client4,Client31,1708.3,Check,No
+2025-02-04 15:54,Bank3,Client4,Client39,2622.53,Credit Card,No
+2025-02-04 16:03,Bank2,Client13,Client9,1665.38,Wire Transfer,No
+2025-02-04 16:05,Bank5,Client13,Client34,2225.79,Credit Card,No
+2025-02-04 16:06,Bank1,Client40,Client9,2195.16,Wire Transfer,No
+2025-02-04 16:07,Bank2,Client9,Client12,2428.29,Credit Card,Yes
+2025-02-04 16:07,Bank8,Client4,Client8,2029.8,Crypto,No
+2025-02-04 16:11,Bank3,Client1,Client25,2304.73,Wire Transfer,No
+2025-02-04 16:12,Bank1,Client2,Client31,2735.72,Credit Card,No
+2025-02-04 16:12,Bank5,Client21,Client24,1662.08,Credit Card,No
+2025-02-04 16:13,Bank4,Client21,Client6,1692.87,Check,No
+2025-02-04 16:14,Bank9,Client21,Client37,2348.99,Check,No
+2025-02-04 16:16,Bank6,Client29,Client16,1742.74,Credit Card,No
+2025-02-04 16:17,Bank5,Client13,Client6,2168.77,ACH,No
+2025-02-04 16:17,Bank4,Client21,Client25,1784.87,Check,No
+2025-02-04 16:18,Bank10,Client3,Client13,1817.83,ACH,No
+2025-02-04 16:19,Bank10,Client21,Client37,2079,Wire Transfer,No
+2025-02-04 16:21,Bank4,Client21,Client40,2358.03,Credit Card,No
+2025-02-04 16:21,Bank3,Client3,Client24,1977.68,ACH,No
+2025-02-04 16:21,Bank9,Client12,Client24,2308.19,ACH,No
+2025-02-04 16:23,Bank3,Client29,Client11,1511.75,Credit Card,No
+2025-02-04 16:24,Bank1,Client20,Client16,2154.83,Credit Card,No
+2025-02-04 16:24,Bank5,Client39,Client15,2387.86,Check,No
+2025-02-04 16:25,Bank10,Client15,Client20,2035.54,Crypto,No
+2025-02-04 16:25,Bank7,Client39,Client29,2045.74,ACH,No
+2025-02-04 16:29,Bank2,Client13,Client12,2020.07,Credit Card,No
+2025-02-04 16:29,Bank6,Client4,Client33,1893.8,Credit Card,No
+2025-02-04 16:29,Bank3,Client37,Client33,2076.97,Check,No
+2025-02-04 16:30,Bank7,Client13,Client30,2161.17,Wire Transfer,No
+2025-02-04 16:30,Bank3,Client21,Client20,1725.59,Crypto,No
+2025-02-04 16:32,Bank6,Client14,Client38,1641.32,ACH,No
+2025-02-04 16:32,Bank8,Client17,Client19,1675.14,Credit Card,No
+2025-02-04 16:32,Bank4,Client4,Client10,2110.82,Crypto,No
+2025-02-04 16:32,Bank6,Client15,Client12,1816.18,Wire Transfer,No
+2025-02-04 16:34,Bank1,Client13,Client11,1806.78,Credit Card,No
+2025-02-04 16:40,Bank1,Client11,Client12,2105.98,Check,No
+2025-02-04 16:41,Bank2,Client10,Client30,2223.1,Credit Card,No
+2025-02-04 16:43,Bank8,Client27,Client12,2134.78,Wire Transfer,No
+2025-02-04 16:47,Bank7,Client17,Client18,2060.61,Check,No
+2025-02-04 16:47,Bank2,Client4,Client2,2210.4,ACH,No
+2025-02-04 16:51,Bank5,Client4,Client17,1497.93,Check,No
+2025-02-04 16:51,Bank3,Client4,Client31,1535.4,Wire Transfer,No
+2025-02-04 16:52,Bank8,Client6,Client20,1709.09,Crypto,No
+2025-02-04 16:56,Bank9,Client6,Client21,2295.54,Credit Card,No
+2025-02-04 17:01,Bank6,Client6,Client25,2129.91,Check,No
+2025-02-04 17:01,Bank2,Client4,Client32,2563.89,ACH,No
+2025-02-04 17:02,Bank5,Client4,Client30,1855.78,Crypto,No
+2025-02-04 17:05,Bank1,Client18,Client9,1850.98,Crypto,No
+2025-02-04 17:06,Bank6,Client8,Client21,2007.9,Check,No
+2025-02-04 17:08,Bank6,Client21,Client28,1529.59,Check,No
+2025-02-04 17:09,Bank8,Client10,Client2,2063.28,Wire Transfer,No
+2025-02-04 17:11,Bank9,Client21,Client2,1957.3,Crypto,No
+2025-02-04 17:12,Bank3,Client4,Client23,1691.23,Check,No
+2025-02-04 17:13,Bank1,Client33,Client1,2102.51,Check,No
+2025-02-04 17:22,Bank9,Client13,Client27,1495.25,ACH,No
+2025-02-04 17:23,Bank4,Client21,Client13,2170.98,Wire Transfer,No
+2025-02-04 17:27,Bank2,Client35,Client30,2312.18,Credit Card,No
+2025-02-04 17:29,Bank9,Client17,Client34,1828.21,Wire Transfer,No
+2025-02-04 17:30,Bank6,Client35,Client33,2181.31,ACH,No
+2025-02-04 17:31,Bank8,Client13,Client3,1365.33,Crypto,No
+2025-02-04 17:34,Bank8,Client5,Client17,1503.66,Check,No
+2025-02-04 17:34,Bank8,Client4,Client13,2079.5,Check,No
+2025-02-04 17:35,Bank4,Client10,Client36,1878.76,Wire Transfer,No
+2025-02-04 17:36,Bank10,Client16,Client17,2037.62,Wire Transfer,No
+2025-02-04 17:37,Bank6,Client18,Client8,1687.62,Wire Transfer,No
+2025-02-04 17:40,Bank2,Client10,Client1,2382.02,Check,No
+2025-02-04 17:49,Bank6,Client4,Client6,2167.59,Wire Transfer,No
+2025-02-04 17:51,Bank5,Client15,Client22,1771.52,ACH,No
+2025-02-04 17:51,Bank2,Client4,Client18,1869.69,Crypto,No
+2025-02-04 17:51,Bank2,Client15,Client23,2277.61,Crypto,No
+2025-02-04 17:52,Bank7,Client13,Client3,2191.35,Crypto,No
+2025-02-04 17:52,Bank5,Client30,Client16,2235.2,Check,No
+2025-02-04 17:53,Bank7,Client12,Client27,2091.4,ACH,No
+2025-02-04 17:54,Bank6,Client29,Client19,2429.64,ACH,No
+2025-02-04 17:56,Bank10,Client8,Client22,2046.17,Check,No
+2025-02-04 17:56,Bank1,Client16,Client3,2021.39,ACH,No
+2025-02-04 17:57,Bank4,Client21,Client37,1915.23,Credit Card,No
+2025-02-04 17:58,Bank1,Client10,Client2,2520.9,Credit Card,No
+2025-02-04 18:00,Bank8,Client10,Client36,1765.6,Credit Card,No
+2025-02-04 18:02,Bank1,Client13,Client29,2073.06,Wire Transfer,No
+2025-02-04 18:02,Bank1,Client4,Client36,2109.51,ACH,No
+2025-02-04 18:02,Bank5,Client4,Client36,1699.89,Crypto,No
+2025-02-04 18:05,Bank5,Client10,Client4,1917.6,ACH,No
+2025-02-04 18:06,Bank6,Client10,Client5,2154,Wire Transfer,No
+2025-02-04 18:08,Bank5,Client4,Client38,1731.33,Crypto,No
+2025-02-04 18:08,Bank3,Client13,Client25,2148.45,Check,No
+2025-02-04 18:10,Bank3,Client21,Client17,1921.31,Credit Card,No
+2025-02-04 18:11,Bank3,Client23,Client7,2561.08,Crypto,No
+2025-02-04 18:11,Bank4,Client10,Client7,1893.54,Credit Card,No
+2025-02-04 18:12,Bank5,Client9,Client31,2208.09,Check,No
+2025-02-04 18:12,Bank2,Client13,Client18,2542.66,Crypto,No
+2025-02-04 18:15,Bank9,Client10,Client39,1988.37,Check,No
+2025-02-04 18:15,Bank7,Client6,Client30,1832.36,ACH,No
+2025-02-04 18:16,Bank3,Client10,Client33,2128.95,Crypto,No
+2025-02-04 18:22,Bank2,Client9,Client31,1329.6,Wire Transfer,No
+2025-02-04 18:22,Bank2,Client14,Client20,1915.61,Check,No
+2025-02-04 18:24,Bank7,Client21,Client11,1418.06,Check,No
+2025-02-04 18:26,Bank4,Client28,Client1,1957.72,Wire Transfer,No
+2025-02-04 18:28,Bank1,Client4,Client9,2363.51,Crypto,No
+2025-02-04 18:31,Bank6,Client13,Client38,1923.71,Crypto,No
+2025-02-04 18:33,Bank4,Client13,Client3,2276.26,Crypto,No
+2025-02-04 18:33,Bank5,Client19,Client36,2345.61,ACH,No
+2025-02-04 18:35,Bank2,Client13,Client22,1563.6,Credit Card,No
+2025-02-04 18:36,Bank5,Client21,Client28,2141.46,Wire Transfer,No
+2025-02-04 18:37,Bank3,Client13,Client30,1630.2,ACH,No
+2025-02-04 18:39,Bank1,Client4,Client21,1449.27,Crypto,No
+2025-02-04 18:39,Bank7,Client21,Client29,2361.55,Check,No
+2025-02-04 18:39,Bank2,Client22,Client21,2001.92,Check,No
+2025-02-04 18:39,Bank5,Client31,Client13,2453.2,Wire Transfer,No
+2025-02-04 18:42,Bank10,Client4,Client24,1472.8,Credit Card,No
+2025-02-04 18:43,Bank10,Client6,Client8,1876.55,ACH,No
+2025-02-04 18:45,Bank5,Client10,Client7,2347.25,Check,No
+2025-02-04 18:45,Bank3,Client20,Client8,1735.79,ACH,No
+2025-02-04 18:46,Bank8,Client13,Client1,2220.62,Check,No
+2025-02-04 18:46,Bank7,Client4,Client26,2023.36,Wire Transfer,No
+2025-02-04 18:46,Bank2,Client28,Client23,1846.83,Wire Transfer,No
+2025-02-04 18:46,Bank5,Client4,Client12,2332.05,Wire Transfer,No
+2025-02-04 18:47,Bank5,Client14,Client17,1876.79,ACH,No
+2025-02-04 18:48,Bank6,Client6,Client40,2058.25,Crypto,No
+2025-02-04 18:48,Bank8,Client4,Client27,1900.83,Crypto,No
+2025-02-04 18:48,Bank4,Client21,Client19,1383.66,Check,No
+2025-02-04 18:49,Bank1,Client4,Client23,2317.34,Check,No
+2025-02-04 18:50,Bank7,Client4,Client3,2483.81,Crypto,No
+2025-02-04 18:50,Bank8,Client10,Client23,2190.23,Crypto,No
+2025-02-04 18:52,Bank5,Client21,Client25,2265.47,Crypto,No
+2025-02-04 18:52,Bank10,Client8,Client2,2041.64,ACH,No
+2025-02-04 18:52,Bank5,Client21,Client5,1921.08,ACH,No
+2025-02-04 18:53,Bank3,Client18,Client28,2316.82,Credit Card,No
+2025-02-04 18:55,Bank2,Client10,Client9,2707.68,Credit Card,No
+2025-02-04 19:02,Bank1,Client21,Client18,2120.84,Wire Transfer,No
+2025-02-04 19:03,Bank4,Client21,Client9,2613.93,Check,No
+2025-02-04 19:05,Bank5,Client21,Client15,2044.14,Wire Transfer,No
+2025-02-04 19:06,Bank9,Client21,Client8,1910.87,Wire Transfer,No
+2025-02-04 19:06,Bank10,Client4,Client25,2025.97,ACH,No
+2025-02-04 19:10,Bank9,Client3,Client30,1982.02,ACH,No
+2025-02-04 19:11,Bank7,Client10,Client29,2018.14,Wire Transfer,No
+2025-02-04 19:11,Bank4,Client3,Client19,1518.43,Wire Transfer,No
+2025-02-04 19:15,Bank8,Client13,Client16,2387.33,ACH,No
+2025-02-04 19:16,Bank8,Client21,Client23,1586.7,ACH,No
+2025-02-04 19:17,Bank6,Client4,Client30,2353.17,Check,No
+2025-02-04 19:18,Bank6,Client4,Client20,2138.21,ACH,No
+2025-02-04 19:19,Bank10,Client13,Client15,2295.03,Wire Transfer,No
+2025-02-04 19:22,Bank8,Client6,Client10,1815.54,Check,No
+2025-02-04 19:22,Bank2,Client4,Client10,1882.56,Check,No
+2025-02-04 19:25,Bank9,Client19,Client29,2163.33,ACH,No
+2025-02-04 19:25,Bank9,Client21,Client35,1539.43,Credit Card,No
+2025-02-04 19:28,Bank1,Client6,Client31,1812.65,Wire Transfer,No
+2025-02-04 19:28,Bank6,Client4,Client21,2398.08,Credit Card,No
+2025-02-04 19:31,Bank5,Client7,Client13,2076.09,Credit Card,No
+2025-02-04 19:31,Bank4,Client3,Client40,1570.85,Credit Card,No
+2025-02-04 19:33,Bank8,Client10,Client32,1760.29,Wire Transfer,No
+2025-02-04 19:35,Bank5,Client30,Client22,2069.17,Crypto,No
+2025-02-04 19:38,Bank5,Client4,Client30,1756.62,Wire Transfer,No
+2025-02-04 19:42,Bank5,Client21,Client19,2229.64,ACH,No
+2025-02-04 19:47,Bank1,Client29,Client24,2539.19,Wire Transfer,No
+2025-02-04 19:49,Bank7,Client29,Client5,1954.03,Crypto,No
+2025-02-04 19:49,Bank1,Client32,Client5,2240.72,Credit Card,No
+2025-02-04 19:50,Bank9,Client21,Client32,2299.03,Credit Card,No
+2025-02-04 19:51,Bank3,Client14,Client21,2338.43,ACH,No
+2025-02-04 19:52,Bank8,Client13,Client3,1571.59,Check,No
+2025-02-04 19:56,Bank10,Client40,Client2,1760.79,Credit Card,No
+2025-02-04 19:57,Bank2,Client3,Client2,1969.23,Credit Card,No
+2025-02-04 19:59,Bank9,Client40,Client21,2568.02,Check,No
+2025-02-04 20:05,Bank9,Client26,Client34,2293.93,Credit Card,No
+2025-02-04 20:07,Bank7,Client20,Client21,2369.34,ACH,No
+2025-02-04 20:12,Bank3,Client21,Client19,2235.31,Crypto,No
+2025-02-04 20:13,Bank3,Client13,Client25,1655.75,ACH,No
+2025-02-04 20:13,Bank4,Client13,Client6,2232.71,Crypto,No
+2025-02-04 20:14,Bank2,Client4,Client39,2467.96,Crypto,No
+2025-02-04 20:17,Bank2,Client2,Client39,1740.37,Credit Card,No
+2025-02-04 20:18,Bank4,Client10,Client6,2079.34,Wire Transfer,No
+2025-02-04 20:19,Bank9,Client13,Client17,1153.75,ACH,No
+2025-02-04 20:20,Bank3,Client13,Client22,2426.04,ACH,No
+2025-02-04 20:20,Bank8,Client30,Client38,1843.53,Credit Card,No
+2025-02-04 20:23,Bank3,Client13,Client7,1908.49,Crypto,No
+2025-02-04 20:23,Bank4,Client32,Client27,2147.06,Check,No
+2025-02-04 20:26,Bank6,Client21,Client23,2538.61,Credit Card,No
+2025-02-04 20:26,Bank9,Client29,Client18,1886.44,Crypto,No
+2025-02-04 20:27,Bank7,Client2,Client6,2339.74,Check,No
+2025-02-04 20:29,Bank1,Client21,Client33,2502.9,Check,No
+2025-02-04 20:30,Bank1,Client24,Client23,1384.78,Wire Transfer,No
+2025-02-04 20:30,Bank3,Client4,Client19,1984.65,Wire Transfer,No
+2025-02-04 20:31,Bank2,Client21,Client19,2036.98,Crypto,No
+2025-02-04 20:31,Bank3,Client4,Client28,2332.02,ACH,No
+2025-02-04 20:32,Bank5,Client20,Client17,2464.66,Credit Card,No
+2025-02-04 20:32,Bank5,Client10,Client21,2214.2,Check,No
+2025-02-04 20:33,Bank6,Client4,Client7,2872.94,ACH,No
+2025-02-04 20:35,Bank8,Client21,Client7,1430.24,Wire Transfer,No
+2025-02-04 20:35,Bank10,Client5,Client8,2401.14,Wire Transfer,No
+2025-02-04 20:37,Bank10,Client22,Client5,2193.61,Wire Transfer,No
+2025-02-04 20:40,Bank4,Client5,Client37,1794.72,Wire Transfer,No
+2025-02-04 20:42,Bank1,Client4,Client7,2543.6,Crypto,No
+2025-02-04 20:44,Bank8,Client36,Client17,1930.16,Crypto,No
+2025-02-04 20:48,Bank1,Client13,Client39,2180.53,ACH,No
+2025-02-04 20:48,Bank7,Client14,Client29,1879.47,ACH,No
+2025-02-04 20:48,Bank3,Client10,Client5,1701.77,Check,No
+2025-02-04 20:48,Bank10,Client10,Client13,2047.99,ACH,No
+2025-02-04 20:49,Bank1,Client4,Client8,1967,Wire Transfer,No
+2025-02-04 20:51,Bank3,Client11,Client6,2034.52,Wire Transfer,No
+2025-02-04 20:56,Bank6,Client39,Client5,2223.18,Check,No
+2025-02-04 20:56,Bank2,Client10,Client21,2107.96,Wire Transfer,No
+2025-02-04 20:56,Bank9,Client13,Client10,2005.77,Check,No
+2025-02-04 20:57,Bank5,Client13,Client38,2176.36,Check,No
+2025-02-04 20:58,Bank4,Client10,Client16,1830.85,Crypto,No
+2025-02-04 20:59,Bank9,Client36,Client15,1932.86,ACH,No
+2025-02-04 20:59,Bank7,Client13,Client5,1983.13,Crypto,No
+2025-02-04 21:01,Bank2,Client31,Client2,1772.1,Crypto,No
+2025-02-04 21:03,Bank4,Client36,Client14,1879.42,Wire Transfer,No
+2025-02-04 21:08,Bank6,Client4,Client1,2051.45,ACH,No
+2025-02-04 21:09,Bank10,Client15,Client23,2397.09,Credit Card,No
+2025-02-04 21:09,Bank6,Client21,Client13,2052.11,Crypto,No
+2025-02-04 21:12,Bank7,Client4,Client29,1925.96,Credit Card,No
+2025-02-04 21:14,Bank8,Client4,Client14,2231.1,ACH,No
+2025-02-04 21:14,Bank7,Client29,Client30,2037.3,Credit Card,No
+2025-02-04 21:15,Bank6,Client33,Client5,2536.27,Wire Transfer,No
+2025-02-04 21:16,Bank5,Client33,Client15,2017.08,ACH,No
+2025-02-04 21:18,Bank10,Client4,Client37,2483.56,Wire Transfer,No
+2025-02-04 21:18,Bank3,Client28,Client29,2098.7,ACH,No
+2025-02-04 21:19,Bank1,Client10,Client38,2171.63,Crypto,No
+2025-02-04 21:20,Bank2,Client21,Client17,2621.86,ACH,No
+2025-02-04 21:21,Bank9,Client29,Client20,1866.07,Credit Card,No
+2025-02-04 21:22,Bank3,Client13,Client40,1860.12,Check,No
+2025-02-04 21:22,Bank8,Client4,Client7,1862.07,Credit Card,No
+2025-02-04 21:22,Bank4,Client4,Client30,1533.62,Wire Transfer,No
+2025-02-04 21:22,Bank8,Client16,Client10,2118.94,Crypto,No
+2025-02-04 21:23,Bank1,Client15,Client21,2170.39,Crypto,No
+2025-02-04 21:24,Bank8,Client16,Client21,1657.6,ACH,No
+2025-02-04 21:24,Bank4,Client10,Client30,1989.93,Wire Transfer,No
+2025-02-04 21:27,Bank6,Client13,Client15,1891.82,ACH,No
+2025-02-04 21:27,Bank6,Client13,Client22,1862.54,Crypto,No
+2025-02-04 21:29,Bank6,Client21,Client19,2232.28,ACH,No
+2025-02-04 21:30,Bank1,Client40,Client1,2418.06,Wire Transfer,No
+2025-02-04 21:36,Bank1,Client13,Client16,1525.07,Crypto,No
+2025-02-04 21:37,Bank1,Client10,Client30,2007.5,ACH,No
+2025-02-04 21:37,Bank6,Client15,Client5,1600.6,Crypto,No
+2025-02-04 21:39,Bank6,Client10,Client28,1534.73,Credit Card,No
+2025-02-04 21:40,Bank2,Client24,Client1,1399.83,ACH,No
+2025-02-04 21:40,Bank6,Client10,Client14,2090.13,Check,No
+2025-02-04 21:41,Bank2,Client10,Client26,2658.12,Check,No
+2025-02-04 21:43,Bank1,Client21,Client12,1536.03,Check,No
+2025-02-04 21:44,Bank10,Client10,Client19,1609.12,Wire Transfer,No
+2025-02-04 21:47,Bank10,Client13,Client12,1774.9,Wire Transfer,No
+2025-02-04 21:48,Bank7,Client6,Client15,1641.86,ACH,No
+2025-02-04 21:50,Bank6,Client1,Client3,1688.05,Wire Transfer,No
+2025-02-04 21:50,Bank9,Client5,Client38,1814.34,Check,No
+2025-02-04 21:53,Bank5,Client33,Client21,2051.11,Crypto,No
+2025-02-04 21:53,Bank10,Client17,Client9,1708.92,Check,No
+2025-02-04 21:57,Bank3,Client10,Client17,1716.93,Check,No
+2025-02-04 21:57,Bank9,Client21,Client20,1771.35,ACH,No
+2025-02-04 21:59,Bank2,Client21,Client25,1702.44,Check,No
+2025-02-04 22:02,Bank8,Client4,Client25,1672.18,Check,No
+2025-02-04 22:02,Bank1,Client4,Client19,1568.78,ACH,No
+2025-02-04 22:03,Bank9,Client23,Client8,1676.18,ACH,No
+2025-02-04 22:03,Bank2,Client21,Client24,1871.95,Credit Card,No
+2025-02-04 22:03,Bank10,Client21,Client35,2013.24,Check,No
+2025-02-04 22:04,Bank6,Client10,Client22,2171.72,Credit Card,No
+2025-02-04 22:05,Bank4,Client13,Client2,2146.56,Crypto,No
+2025-02-04 22:05,Bank9,Client14,Client30,2206.51,Crypto,No
+2025-02-04 22:07,Bank1,Client4,Client35,1525.09,Wire Transfer,No
+2025-02-04 22:11,Bank2,Client21,Client27,2356.17,Crypto,No
+2025-02-04 22:12,Bank6,Client13,Client29,1812.89,Credit Card,No
+2025-02-04 22:14,Bank6,Client16,Client37,2251.13,Wire Transfer,No
+2025-02-04 22:14,Bank6,Client38,Client6,1817.67,Check,No
+2025-02-04 22:15,Bank2,Client4,Client6,2098.91,Credit Card,No
+2025-02-04 22:16,Bank9,Client13,Client24,2330.48,Credit Card,No
+2025-02-04 22:17,Bank2,Client13,Client34,1897.35,Check,No
+2025-02-04 22:17,Bank7,Client13,Client1,2587.59,Check,No
+2025-02-04 22:18,Bank9,Client10,Client25,1850.61,Check,No
+2025-02-04 22:21,Bank2,Client10,Client17,2110.2,Wire Transfer,No
+2025-02-04 22:21,Bank9,Client13,Client34,1791.09,Credit Card,No
+2025-02-04 22:22,Bank8,Client13,Client8,2339.5,Check,No
+2025-02-04 22:25,Bank2,Client21,Client18,2249.35,ACH,No
+2025-02-04 22:29,Bank8,Client21,Client18,1973.55,Wire Transfer,No
+2025-02-04 22:31,Bank2,Client13,Client16,2023.74,Credit Card,No
+2025-02-04 22:32,Bank9,Client40,Client24,1952.61,Crypto,No
+2025-02-04 22:34,Bank7,Client10,Client38,1854.07,Crypto,No
+2025-02-04 22:35,Bank3,Client39,Client30,1747.34,Crypto,No
+2025-02-04 22:35,Bank3,Client15,Client21,1486.27,Check,No
+2025-02-04 22:36,Bank10,Client13,Client7,2686.45,Crypto,No
+2025-02-04 22:41,Bank9,Client18,Client2,2097.57,Check,No
+2025-02-04 22:43,Bank8,Client7,Client24,1774.82,Wire Transfer,No
+2025-02-04 22:44,Bank4,Client12,Client14,2272.65,Credit Card,No
+2025-02-04 22:44,Bank3,Client2,Client6,1887.54,ACH,No
+2025-02-04 22:44,Bank10,Client4,Client5,1788.77,Wire Transfer,No
+2025-02-04 22:51,Bank4,Client6,Client40,1986.91,Credit Card,No
+2025-02-04 22:51,Bank7,Client22,Client38,1496.85,Crypto,No
+2025-02-04 22:54,Bank3,Client27,Client8,2550.91,Credit Card,No
+2025-02-04 22:55,Bank4,Client4,Client13,1683.76,Check,No
+2025-02-04 22:55,Bank2,Client29,Client18,2230.26,Crypto,No
+2025-02-04 22:58,Bank3,Client23,Client6,1727.46,Crypto,No
+2025-02-04 22:59,Bank7,Client40,Client38,2032.79,Check,No
+2025-02-04 23:00,Bank7,Client24,Client5,2130.61,ACH,No
+2025-02-04 23:00,Bank2,Client13,Client32,2228.65,ACH,No
+2025-02-04 23:00,Bank5,Client10,Client5,2021.71,Credit Card,No
+2025-02-04 23:01,Bank10,Client11,Client4,1370.44,Credit Card,No
+2025-02-04 23:03,Bank8,Client26,Client11,1403.06,Check,No
+2025-02-04 23:04,Bank1,Client10,Client30,1853.27,Credit Card,No
+2025-02-04 23:04,Bank3,Client21,Client27,2209.56,Check,No
+2025-02-04 23:05,Bank9,Client31,Client36,1676.87,Wire Transfer,No
+2025-02-04 23:05,Bank8,Client8,Client14,2797.08,Wire Transfer,No
+2025-02-04 23:05,Bank9,Client30,Client40,2066.36,Crypto,No
+2025-02-04 23:09,Bank8,Client13,Client28,2413.44,ACH,No
+2025-02-04 23:09,Bank5,Client33,Client40,2320.7,ACH,No
+2025-02-04 23:15,Bank3,Client10,Client35,2369.59,Wire Transfer,No
+2025-02-04 23:18,Bank10,Client21,Client8,1973.35,Check,No
+2025-02-04 23:18,Bank2,Client13,Client20,1813.45,Credit Card,No
+2025-02-04 23:19,Bank6,Client21,Client24,1887.25,Wire Transfer,No
+2025-02-04 23:21,Bank8,Client18,Client8,1998.12,Credit Card,No
+2025-02-04 23:27,Bank4,Client21,Client28,1678.19,Wire Transfer,No
+2025-02-04 23:27,Bank6,Client25,Client16,2014.23,Crypto,No
+2025-02-04 23:29,Bank6,Client4,Client23,1778.92,ACH,No
+2025-02-04 23:30,Bank5,Client31,Client6,1254.93,Check,No
+2025-02-04 23:32,Bank7,Client24,Client19,2055.25,Check,No
+2025-02-04 23:33,Bank6,Client21,Client36,1877.44,Wire Transfer,No
+2025-02-04 23:33,Bank10,Client15,Client10,1787.94,Check,No
+2025-02-04 23:34,Bank4,Client9,Client39,1930.07,ACH,No
+2025-02-04 23:35,Bank3,Client14,Client18,1800.95,Check,No
+2025-02-04 23:37,Bank6,Client34,Client37,1768.43,Crypto,No
+2025-02-04 23:38,Bank9,Client13,Client10,1373.84,Crypto,No
+2025-02-04 23:39,Bank10,Client12,Client17,1940.57,ACH,No
+2025-02-04 23:40,Bank8,Client21,Client2,1643.75,Crypto,No
+2025-02-04 23:44,Bank8,Client21,Client6,2026.95,ACH,No
+2025-02-04 23:44,Bank8,Client23,Client5,1565.28,Check,No
+2025-02-04 23:45,Bank10,Client4,Client6,1327.54,ACH,No
+2025-02-04 23:46,Bank4,Client8,Client2,2167.23,Crypto,No
+2025-02-04 23:47,Bank10,Client39,Client13,2116.73,Credit Card,No
+2025-02-04 23:50,Bank10,Client40,Client15,2286.73,ACH,No
+2025-02-04 23:50,Bank8,Client21,Client32,2554.16,Wire Transfer,No
+2025-02-04 23:50,Bank10,Client29,Client22,1703.38,Wire Transfer,No
+2025-02-04 23:53,Bank5,Client2,Client8,1805.69,Check,No
+2025-02-04 23:54,Bank6,Client10,Client20,2316.2,Crypto,No
+2025-02-04 23:54,Bank6,Client21,Client11,2192.67,Wire Transfer,No
+2025-02-04 23:55,Bank3,Client16,Client3,1633.43,ACH,No
+2025-02-04 23:58,Bank9,Client11,Client33,1947.74,Wire Transfer,No
+2025-02-04 23:58,Bank9,Client10,Client34,2375.5,Wire Transfer,No
