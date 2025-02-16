@@ -11,7 +11,7 @@ Features
 ✅ Interactive Dropdowns & Refresh Button – Users can select different dates and reload data.
 Installation
 
-Ensure you have Python installed, then run:
+Ensure you have Python 3 installed, then run:
 
 pip install dash dash-bootstrap-components pandas networkx plotly
 
@@ -23,6 +23,8 @@ Usage
     python interactive_dashboard.py
 
     Open the web browser and go to http://127.0.0.1:8050/
+
+P.S. for Jupyter Notebook or Google Colab also place transaction CSV files (e.g., Transactions_2025-02-03.csv) in the project directory!
 
 Data Format
 
